@@ -1,0 +1,7 @@
+/node_modules/
+/.pnp
+.pnp.js
+.idea/
+.vscode/
+*.log
+.DS_Store
